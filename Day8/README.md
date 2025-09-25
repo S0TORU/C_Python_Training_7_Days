@@ -58,6 +58,9 @@ While C isn't ideal for high-level ML, it's great for performance. You can integ
 - **Books**: "Hands-On ML with Scikit-Learn" by Aurélien Géron.
 - **Communities**: Reddit r/MachineLearning, Stack Overflow.
 
+## Advanced Example: Neural Network on F1 Speeds
+For a deeper dive, check the `Neural_Network_Example/` directory. It includes a synthetic F1 racer speeds dataset and a TensorFlow script to train a NN for speed prediction. Perfect for practicing end-to-end ML workflows!
+
 ## Why This Matters
 As a creative engineer, AI/ML empowers you to build systems that learn and adapt. Combined with your programming skills, you'll co-create innovative solutions— from smart apps to autonomous tech. This bonus day is your gateway to the future!
 
